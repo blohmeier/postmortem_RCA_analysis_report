@@ -44,5 +44,11 @@ N/A
 N/A
 ## Incident Responders
 Brett Lohmeier
-# Timeline
-..
+## Timeline
+
+| Time  | Description |
+| ----- | ----------- |
+| 11:56am | Missing files discovered |
+| 12:20pm | AES CIS monitoring module reboot |
+| 12:40pm | Data processing of the records files |
+| 1:00pm | Completion of the records processing |
