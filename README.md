@@ -27,7 +27,8 @@ Better monitoring and tracking of functionality related to AES CIS service and a
 ## Related Incidents
 N/A
 
-#Details
+# Details
+
 ## Postmortem Owner
 Brett Lohmeier
 ## Incident
